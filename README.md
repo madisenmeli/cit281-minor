@@ -4,7 +4,7 @@
 # Projects
 + [Project 1](https://madisenmeli.github.io/cit281-p1/) Project 1 Description [Repositiry](https://github.com/madisenmeli/cit281-p1)
 + [Project 2](https://madisenmeli.github.io/cit281-P2/) Project 2 Description [Repository](https://github.com/madisenmeli/cit281-P2)
-+ [Project 3](url) Project 3 Description [Repository](https://github.com/madisenmeli/cit281-P3)
++ [Project 3](https://madisenmeli.github.io/cit281-P3/) Project 3 Description [Repository](https://github.com/madisenmeli/cit281-P3)
 + [Project 4](url) Project 4 Description [Repository](url)
 + [Project 5](url) Project 5 Description [Repository](url)
 + [Project 6](url) Project 6 Description [Repository](url)
