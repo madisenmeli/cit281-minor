@@ -5,10 +5,10 @@
 + [Project 1](https://madisenmeli.github.io/cit281-p1/) Project 1 Description [Repositiry](https://github.com/madisenmeli/cit281-p1)
 + [Project 2](https://madisenmeli.github.io/cit281-P2/) Project 2 Description [Repository](https://github.com/madisenmeli/cit281-P2)
 + [Project 3](https://madisenmeli.github.io/cit281-P3/) Project 3 Description [Repository](https://github.com/madisenmeli/cit281-P3)
-+ [Project 4](url) Project 4 Description [Repository](url)
-+ [Project 5](url) Project 5 Description [Repository](url)
-+ [Project 6](url) Project 6 Description [Repository](url)
-+ [Project 7](url) Project 7 Description [Repository](url)
++ [Project 4](https://madisenmeli.github.io/cit281-P4/) Project 4 Description [Repository](https://github.com/madisenmeli/cit281-P4)
++ [Project 5](https://madisenmeli.github.io/cit281-P5/) Project 5 Description [Repository](https://github.com/madisenmeli/cit281-P5)
++ [Project 6](https://madisenmeli.github.io/cit281-P6/) Project 6 Description [Repository](https://github.com/madisenmeli/cit281-P6)
++ [Project 7](https://madisenmeli.github.io/cit281-P7/) Project 7 Description [Repository](https://github.com/madisenmeli/cit281-P7)
 
 # LABS
 + [Lab 1](url) Lab 1 [Repository](url)
