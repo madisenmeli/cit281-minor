@@ -20,4 +20,3 @@
 + [Lab 7](https://madisenmeli.github.io/cit281-lab-7/) Lab 7: learned try, catch, finally.  [Repository](https://github.com/madisenmeli/cit281-lab-7)
 + [Lab 8](https://madisenmeli.github.io/cit281-lab8/) Lab 8: fastify.get, also learned object.keys, use links to get different amounts of photos.  [Repository](https://github.com/madisenmeli/cit281-lab8)
 + [Lab 9](https://madisenmeli.github.io/cit281-lab9/) Lab 9: worked with github to create repositories and pages [Repository](https://github.com/madisenmeli/cit281-lab9)
-
