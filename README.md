@@ -11,14 +11,14 @@
 + [Project 7](https://madisenmeli.github.io/cit281-P7/) Project 7 Description [Repository](https://github.com/madisenmeli/cit281-P7)
 
 # LABS
-+ [Lab 1](url) Lab 1 [Repository](url)
-+ [Lab 2](url) Lab 2 [Respositry](url)
-+ [Lab 3](url) Lab 3 [Repository](url)
-+ [Lab 4](url) Lab 4 [Repository](url)
-+ [Lab 5](url) Lab 5 [Repository](url)
-+ [Lab 6](url) Lab 6 [Repository](url)
-+ [Lab 7](url) Lab 7 [Repository](url)
-+ [Lab 8](url) Lab 8 [Repository](url)
-+ [Lab 9](url) Lab 9 [Repository](url)
++ [Lab 1](https://madisenmeli.github.io/cit281-lab1/) Lab 1 [Repository](https://github.com/madisenmeli/cit281-lab1)
++ [Lab 2]( https://madisenmeli.github.io/cit281-lab2/) Lab 2 [Respositry](https://github.com/madisenmeli/cit281-lab2)
++ [Lab 3](https://madisenmeli.github.io/cit281-lab3/) Lab 3 [Repository](https://github.com/madisenmeli/cit281-lab3)
++ [Lab 4](https://madisenmeli.github.io/cit281-lab4/) Lab 4 [Repository](https://github.com/madisenmeli/cit281-lab4)
++ [Lab 5](https://madisenmeli.github.io/cit281-lab5/) Lab 5 [Repository](https://github.com/madisenmeli/cit281-lab5)
++ [Lab 6](https://madisenmeli.github.io/cit281-lab6/) Lab 6 [Repository](https://github.com/madisenmeli/cit281-lab6)
++ [Lab 7](https://madisenmeli.github.io/cit281-lab-7/) Lab 7 [Repository](https://github.com/madisenmeli/cit281-lab-7)
++ [Lab 8](https://madisenmeli.github.io/cit281-lab8/) Lab 8 [Repository](https://github.com/madisenmeli/cit281-lab8)
++ [Lab 9](https://madisenmeli.github.io/cit281-lab9/) Lab 9 [Repository](https://github.com/madisenmeli/cit281-lab9)
 # cit281-minor
 cit minor page
